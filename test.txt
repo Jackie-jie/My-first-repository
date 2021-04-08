@@ -2,3 +2,4 @@ test_push
 test_pull
 
 test_local
+test_github
