@@ -1,2 +1,4 @@
 test_push
 test_pull
+
+test_local
